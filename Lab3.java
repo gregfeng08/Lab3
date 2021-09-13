@@ -1,4 +1,10 @@
-package test;
+/**AUTHOR: Gregory Feng
+ * FILENAME: Lab3.java
+ * SPECIFICATION: Program that takes the input validated grades for your homework, midterm and final and puts it through a 
+ * formula that calculates your final grade with weights and tells you if you passed the class or not.
+ * FOR: CSE-110 Lab3
+ * TIME SPENT: 30 minutes
+ */
 import java.util.*;
 public class Lab3 {
 
